@@ -1,4 +1,4 @@
-![](background.png)
+![](background.jpeg)
 ```js
 I ´m Akira, in real life my name is Leonniel.
 Experience: 1 year.
