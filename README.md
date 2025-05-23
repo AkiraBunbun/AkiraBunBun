@@ -7,7 +7,7 @@ Born. in: 🇻🇪.
 living: 🇪🇸.
 WEBPAGES:
 ```
-1 [Personal Web Page](https://leonniel.web.app)                2  [Secondary Web Page](https://fuwaakira.web.app)
+1 [Personal Web Page](https://leonniel.web.app)                2  [Secondary Web Page](https://stella-akira.web.app)
 ```js
 
 I love React, AngularJS, Node, Bun, Deno and I preffer pnpm instead
